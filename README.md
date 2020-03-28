@@ -5,7 +5,6 @@
 ![cartao soberana](https://github.com/pinheirosolucoes/cartaodigital/blob/master/CARTAOSOBE.jpeg)
 
 
-### Para mais informações acesso o site
+### Para mais informações acesse o site
 
-
-[site](http://pinheirosolucoes.esy.es)
+[clique aqui e acesse o site](http://pinheirosolucoes.esy.es)
